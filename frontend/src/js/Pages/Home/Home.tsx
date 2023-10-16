@@ -39,7 +39,7 @@ const Home:React.FC = () => {
                     </div>
                 </div>
                 <div className="body-picture">
-                    <img className="home-picture-img" src={ HomePagePic } alt="home page picture" />
+                    <img className="home-picture-imgg" src={ HomePagePic } alt="home page picture" />
                 </div>
             </div>
             <div className="bottom-border">
